@@ -61,9 +61,10 @@ async def create_post(username, password, post_content):
 # This part of the script runs when you use the command 'python automation_worker.py'
 if __name__ == "__main__":
     # 1. FILL IN YOUR CREDENTIALS HERE
-    test_username = "61578973617715"
-    test_password = "2HP4MBO31D"
-    test_content = "test."
+    test_username = "61578748661200"
+    test_password = "somalasam025#"
+
+    test_content = "This is a test post."
 
     if test_username == "YOUR_TEST_USERNAME":
         print("Please update the test credentials at the bottom of automation_worker.py")
